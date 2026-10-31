@@ -1,0 +1,176 @@
+{
+  "name": "LIANYI WANG",
+  "nameZh": "王莲仪",
+  "title": "Independent curator",
+  "titleZh": "独立策展人",
+  "location": "London",
+  "locationDisplayEn": "London / Somewhere between the white cube and the cloud",
+  "locationDisplayZh": "伦敦 / 白盒子与云端之间",
+  "education": "BA Culture, Criticism and Curation, Central Saint Martins, University of the Arts London",
+  "educationZh": "伦敦艺术大学中央圣马丁学院，文化、批评与策展（BA）",
+  "email": "lotus.lywang@gmail.com",
+  "positioning": "Curatorial practice across exhibitions, social media, games, satellites, AI systems and other unstable media environments.",
+  "positioningZh": "策展工作出没于展览、社交媒体、游戏、卫星、人工智能系统，以及其他不太稳定的媒介环境。",
+  "researchNote": "Current research follows human-machine relations, mechanisms of cultural production and generative forms of experience emerging from artificial intelligence.",
+  "researchNoteZh": "当前研究关注人机关系、文化生产机制，以及人工智能浪潮中不断生成的新型经验形式。",
+  "fields": [
+    "artificial intelligence",
+    "mass media",
+    "collective consciousness",
+    "social imaginaries",
+    "human-machine relations",
+    "East/West cultural structures",
+    "internet culture",
+    "technological imagination"
+  ],
+  "fieldsZh": [
+    "人工智能",
+    "大众媒体",
+    "集体意识",
+    "社会想象",
+    "人机关系",
+    "东西方文化结构",
+    "互联网文化",
+    "技术想象"
+  ],
+  "bio": [
+    "Lianyi Wang is a London-based independent curator and art critic who has worked across both fields since 2017. She is a graduate of the Culture, Criticism and Curation programme at Central Saint Martins, University of the Arts London. Her work is situated at the intersection of contemporary art, media culture and technological imagination. Her curatorial practice extends beyond conventional exhibition spaces, treating physical sites, social events, games, satellites, social media and the internet as operative media environments.",
+    "Informed by philosophy of technology, media theory, and political and cultural structures across East and West, Wang has long been interested in how mass media shapes, dissolves and reproduces collective consciousness and social imaginaries. Her recent research focuses on the human-machine relations, mechanisms of cultural production and generative forms of experience emerging from the current wave of artificial intelligence."
+  ],
+  "bioZh": [
+    "王莲仪，常驻伦敦的独立策展人与艺术评论人，自 2017 年起从事策展及评论。她毕业于伦敦艺术大学中央圣马丁学院文化、批评与策展专业，在当代艺术、媒介文化和技术想象之间工作，但并不只把展览当成一间摆作品的房间：实体空间、社会事件、游戏、卫星、社交媒体和互联网，都可能成为她搭建项目的现场。",
+    "她的研究借用技术哲学与媒介理论，也关心东西方不同的政治和文化结构。她长期观察大众媒体如何制造、打散并复制我们对“共同经验”的想象。近期，她把注意力放在人机关系、文化生产机制，以及人工智能正在带来的新经验上。"
+  ],
+  "statement": [
+    "The practice approaches exhibitions as cultural operating environments rather than isolated displays. Sites, platforms, public rituals, speculative interfaces and media systems are treated as active conditions that produce behaviour, memory and belief.",
+    "Across projects, the curatorial frame becomes a way to read how images, protocols, social habits and technologies organise collective experience. The question is less where art is shown, and more what kind of public, machine, room or signal makes the encounter possible."
+  ],
+  "statementZh": [
+    "她把展览看作一种会运作的环境，而不是一组彼此独立的展品。场所、平台、公共仪式、想象中的界面和媒介系统不只是背景；它们会悄悄规定人如何行动、记住什么、相信什么。",
+    "因此，策展在这里也是一种读取系统的方法：看图像、规则、社交习惯和技术怎样安排集体经验。与其只问“艺术在哪里展出”，她更关心：是谁、哪台机器、哪个房间或哪一种信号，让这次相遇成为可能。"
+  ],
+  "cv": {
+    "education": [
+      {
+        "label": "BA Culture, Criticism and Curation",
+        "labelZh": "文化、批评与策展（BA）",
+        "detail": "Central Saint Martins, University of the Arts London",
+        "detailZh": "伦敦艺术大学中央圣马丁学院"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Selected Curatorial Projects",
+        "source": "featuredProjects"
+      },
+      {
+        "title": "Research Interests",
+        "items": [
+          "Contemporary art and media culture",
+          "Philosophy of technology and media theory",
+          "Mass media, collective consciousness and social imaginaries",
+          "AI, human-machine relations and generative experience",
+          "East/West political and cultural structures"
+        ],
+        "itemsZh": [
+          "当代艺术与媒介文化",
+          "技术哲学与媒介理论",
+          "大众媒体、集体意识与社会想象",
+          "人工智能、人机关系与生成性经验",
+          "东西方政治与文化结构"
+        ]
+      }
+    ]
+  },
+  "writingPageEnabled": true,
+  "writingPlan": "Four selected texts: two on Web3 and two observations from art fairs.",
+  "writingPlanZh": "四篇精选文章：两篇关于 Web3，两篇来自艺博会现场的观察。",
+  "writing": [
+    {
+      "title": "Did People Discuss Art in Art Basel Hong Kong?",
+      "titleZh": "香港艺术巴塞尔上有人在讨论艺术吗？",
+      "type": "Art fair observation",
+      "typeZh": "艺博会观察",
+      "date": "26 Mar 2023",
+      "summary": "New York Time Chinese · Life and Arts Collection",
+      "summaryZh": "首发于纽约时报中文版微信公众号；现链接为波眼艺术存档版（10 Apr 2023）",
+      "status": "Chinese original online · English forthcoming",
+      "statusZh": "中文全文已上线 · 英文版稍后",
+      "slug": "art-basel-hong-kong",
+      "contentFile": "src/content/writing/hk-art-basel.html",
+      "assetDir": "hk-art-basel",
+      "sourceUrl": "https://mp.weixin.qq.com/s/h7dAP46fyz9j21iXOXnKxw",
+      "sourceLabel": "Archive copy ↗",
+      "sourceLabelZh": "波眼艺术存档 ↗",
+      "visualLabel": "ART / MARKET / SOCIAL LADDER"
+    },
+    {
+      "title": "P01NT: Not Only NFT",
+      "titleZh": "「P01NT」：不止是NFT",
+      "type": "Web3 / Review",
+      "typeZh": "Web3 / 评论",
+      "date": "Jan 2023",
+      "summary": "Review of the NFT art project P01NT · BCA Gallery",
+      "summaryZh": "NFT 艺术项目 P01NT 评论 · BCA Gallery",
+      "status": "Chinese original online · English forthcoming",
+      "statusZh": "中文全文已上线 · 英文版稍后",
+      "slug": "p01nt-not-only-nft",
+      "contentFile": "src/content/writing/p01nt.html",
+      "sourceUrl": "https://mp.weixin.qq.com/s/qnFzoFHtg3y71ikUmFF5Wg",
+      "sourceLabel": "Published version ↗",
+      "sourceLabelZh": "发布版本 ↗",
+      "assetDir": "p01nt",
+      "visualLabel": "POINT / PROTOCOL / PUBLIC"
+    },
+    {
+      "title": "Singapore Possesses Immense Wealth, Yet Its Arts Remain Undernourished",
+      "titleZh": "新加坡很富有，但新加坡的艺术很穷",
+      "type": "Art fair observation",
+      "typeZh": "艺博会观察",
+      "date": "01 Feb 2023",
+      "summary": "Art SG and Singapore's contemporary art ecology · Buoyant Art Official",
+      "summaryZh": "Art SG 与新加坡当代艺术生态观察 · Buoyant Art Official",
+      "status": "Chinese original online · English forthcoming",
+      "statusZh": "中文全文已上线 · 英文版稍后",
+      "slug": "art-sg-singapore",
+      "contentFile": "src/content/writing/art-sg.html",
+      "assetDir": "art-sg",
+      "sourceUrl": "https://mp.weixin.qq.com/s/8JX0adothnNxvyz7n-uisQ",
+      "sourceLabel": "First publication ↗",
+      "sourceLabelZh": "首发版本 ↗",
+      "archiveUrl": "https://paragraph.com/@padparadschak/YpQLSrDzM2KIrIFvreBx",
+      "archiveLabel": "Paragraph archive ↗",
+      "archiveLabelZh": "Paragraph 存档 ↗",
+      "visualLabel": "FAIR / CAPITAL / CULTURE"
+    },
+    {
+      "title": "Has Crypto Art Developed an Ecosystem?",
+      "titleZh": "加密艺术有生态了吗？",
+      "type": "Web3 / Research",
+      "typeZh": "Web3 / 研究",
+      "date": "Dec 2022",
+      "summary": "Research on crypto art · Digital Compound",
+      "summaryZh": "加密艺术生态研究 · Digital Compound",
+      "status": "Chinese original online · English forthcoming",
+      "statusZh": "中文全文已上线 · 英文版稍后",
+      "slug": "crypto-art-ecosystem",
+      "contentFile": "src/content/writing/crypto-art-ecosystem.html",
+      "assetDir": "crypto-ecosystem",
+      "sourceUrl": "https://mp.weixin.qq.com/s/ZAD9GPK1Ja6AzjVHMdxGBg",
+      "sourceLabel": "Published version ↗",
+      "sourceLabelZh": "发布版本 ↗",
+      "visualLabel": "ECOSYSTEM / ACCESS / ATTENTION"
+    }
+  ],
+  "social": [
+    {
+      "label": "Instagram",
+      "handle": "@lotuslywang",
+      "url": "https://www.instagram.com/lotuslywang/"
+    },
+    {
+      "label": "LinkedIn",
+      "url": ""
+    }
+  ]
+}

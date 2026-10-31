@@ -1,0 +1,11 @@
+{
+  "name": "lianyi-wang-curatorial-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.js",
+    "serve": "python3 -m http.server 4173 -d dist"
+  },
+  "description": "Static curatorial archive website for Lianyi Wang."
+}
